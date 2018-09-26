@@ -1,0 +1,37 @@
+body {
+  background-color: blue;
+}
+.butn {
+  display: flex;
+  align-items: flex-end;
+  float: right;
+  padding: 10px;
+}
+.blockquote-reverse {
+  padding-top: 65px;
+  padding-left: 20px;
+  color: yellow;
+}
+h1 {
+  color: white;
+  font-size: 35px;
+  font-family:monospace;
+}
+.em {
+  color: red;
+}
+#submit {
+  float: right;
+}
+.p {
+  font-size: 1.1em;
+  color: orange;
+}
+#youScore {
+  color: silver;
+  font-size: 4em;
+  font-weight: bold;
+  font-style: italic;
+  padding-top: 5px;
+  text-align: right;
+}
